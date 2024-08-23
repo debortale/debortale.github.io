@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://debortale.github.io/sitemap.html.gz
+Sitemap: https://debortale.github.io/app/sitemap.html.gz
+Sitemap: https://debortale.github.io/assets/sitemap.html.gz
+Sitemap: https://debortale.github.io/css/sitemap.html.gz
+Sitemap: https://debortale.github.io/includes/sitemap.html.gz
+Sitemap: https://debortale.github.io/item/sitemap.html.gz
+Sitemap: https://debortale.github.io/src/sitemap.html.gz
